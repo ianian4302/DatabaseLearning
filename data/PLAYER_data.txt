@@ -1,0 +1,16 @@
+1, 'Alice', 'Female', 20, 5000
+2, 'Bob', 'Male', 15, 4000
+3, 'Charlie', 'Male', 25, 7000
+4, 'David', 'Male', 12, 3000
+5, 'Emma', 'Female', 28, 9000
+6, 'Frank', 'Male', 18, 6000
+7, 'Grace', 'Female', 23, 8000
+8, 'Henry', 'Male', 17, 5500
+9, 'Ivy', 'Female', 30, 10000
+10, 'Jack', 'Male', 21, 7200
+11, 'Kevin', 'Male', 13, 3600
+12, 'Linda', 'Female', 19, 6400
+13, 'Mike', 'Male', 22, 7800
+14, 'Nancy', 'Female', 11, 2500
+15, 'Olivia', 'Female', 27, 8800
+16, 'Peter', 'Male', 16, 5100
