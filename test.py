@@ -23,7 +23,7 @@ if(not func.check_table_exist('TASK')):
 #     func.insert_data('TASK', 'TASK_ID, MIN_LEVEL_NEED, DESCRIBE, AWARD', row)
 
 #check data
-# func.print_table('TASK')
+func.print_table('TASK')
 # func.print_table('PLAYER')
 # func.print_table('NPC')
 
